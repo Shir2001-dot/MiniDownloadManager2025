@@ -1,0 +1,16 @@
+C:\Projects\MiniDownloadManager\MiniDownloadManager\bin\Debug\net8.0-windows\MiniDownloadManager.exe
+C:\Projects\MiniDownloadManager\MiniDownloadManager\bin\Debug\net8.0-windows\MiniDownloadManager.deps.json
+C:\Projects\MiniDownloadManager\MiniDownloadManager\bin\Debug\net8.0-windows\MiniDownloadManager.runtimeconfig.json
+C:\Projects\MiniDownloadManager\MiniDownloadManager\bin\Debug\net8.0-windows\MiniDownloadManager.dll
+C:\Projects\MiniDownloadManager\MiniDownloadManager\bin\Debug\net8.0-windows\MiniDownloadManager.pdb
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.MainForm.resources
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.csproj.GenerateResource.cache
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.AssemblyInfoInputs.cache
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.AssemblyInfo.cs
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.csproj.CoreCompileInputs.cache
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.dll
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\refint\MiniDownloadManager.dll
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.pdb
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\MiniDownloadManager.genruntimeconfig.cache
+C:\Projects\MiniDownloadManager\MiniDownloadManager\obj\Debug\net8.0-windows\ref\MiniDownloadManager.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDownloadManager", "MiniDownloadManager\MiniDownloadManager.csproj", "{B604694B-9B3F-462F-BC26-E06AF014DEDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B604694B-9B3F-462F-BC26-E06AF014DEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B604694B-9B3F-462F-BC26-E06AF014DEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B604694B-9B3F-462F-BC26-E06AF014DEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B604694B-9B3F-462F-BC26-E06AF014DEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AACDF2D0-0C69-4DC1-87A5-37DBD5CF94E6}
+	EndGlobalSection
+EndGlobal
